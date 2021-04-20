@@ -62,11 +62,12 @@ body {
   background: #292a2d;
 }
 ::-webkit-scrollbar-thumb {
-  background: #E3405F;
+  background: #126e82;
   border-radius: 5px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: #E3405F;
+  background: #126e82;
+  /* E3405F */
 }
 /* Media Query */
 @media (max-width: 1380px) {
