@@ -11,6 +11,9 @@ export default function Footer(props) {
         <p className="footer-text" style={{ color: props.theme.secondaryText }}>
           {greeting.title2}&trade; 1993 - 2021
         </p>
+        <p className="footer-text" style={{ color: props.theme.secondaryText }}>
+          Template design inspired by Harikrushn
+        </p>
       </Fade>
     </div>
   );
