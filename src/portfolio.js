@@ -41,7 +41,7 @@ const skills = {
         "🚀 Develop highly interactive Front end and User Interfaces for your website and applications",
         "🚀 Building responsive website front end using ReactJS",
         "🚀 Creating application backend in Node, Express & Laravel",
-        "🚀 Integration of third party services such as Firebase/ AWS / Digital Ocean",
+        "🚀 Integration of third party services such as Firebase",
       ],
       softwareSkills: [
         {
