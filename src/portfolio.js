@@ -271,6 +271,17 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
+          title: "Junior Web Developer - (FullStack)",
+          company: "TokoKita Indo Bintan",
+          company_url: "https://www.tokokita.co.id/",
+          logo_path: "logo.png",
+          duration: "Mei 2021 - Now",
+          location: "Office",
+          description:
+            "I work as a fullstack developer who focuses more on the client browser which is build with NextJS - React",
+          color: "#0071C5",
+        },
+        {
           title: "Part of Enhancment Security Systems (Intern)",
           company: "AIA Insurance Singapore",
           company_url: "https://www.aia.com.sg/",
