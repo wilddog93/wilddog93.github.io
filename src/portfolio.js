@@ -2,8 +2,8 @@
 
 // Website related settings
 const settings = {
-  isSplash: false, // Change this to true if you want to use the splash screen.
-  useCustomCursor: false, // Change this to false if you want the good'ol cursor
+  isSplash: true, // Change this to true if you want to use the splash screen.
+  useCustomCursor: true, // Change this to false if you want the good'ol cursor
   googleTrackingID: "UA-174238252-2",
 };
 
@@ -271,14 +271,24 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
+          title: "Front End Web Developer",
+          company: "PT Infini Oase Technology",
+          company_url: "https://infinitec.id/",
+          logo_path: "infinitec.jpg",
+          duration: "November 2021 - Now",
+          location: "Office",
+          description:
+            "I work as a Front End Web Developer who focuses more on the client browser which is build with NextJS - React",
+          color: "#0071C5",
+        },
+        {
           title: "Junior Web Developer - (FullStack)",
           company: "TokoKita Indo Bintan",
           company_url: "https://www.tokokita.co.id/",
           logo_path: "logo.png",
-          duration: "Mei 2021 - Now",
+          duration: "Mei 2021 - October 2021",
           location: "Office",
-          description:
-            "I work as a fullstack developer who focuses more on the client browser which is build with NextJS - React",
+          description: "I worked as a fullstack developer",
           color: "#0071C5",
         },
         {
