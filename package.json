@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "private": false,
   "name": "personalPortfolio",
   "homepage": "http://ridhoajibx.github.io",
   "version": "1.0.0",
