@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.06d686be.chunk.css",
-    "main.js": "/static/js/main.f8d6dbab.chunk.js",
-    "main.js.map": "/static/js/main.f8d6dbab.chunk.js.map",
+    "main.js": "/static/js/main.1c76c4f8.chunk.js",
+    "main.js.map": "/static/js/main.1c76c4f8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.00060668.js",
     "runtime-main.js.map": "/static/js/runtime-main.00060668.js.map",
-    "static/js/2.9ed0469d.chunk.js": "/static/js/2.9ed0469d.chunk.js",
-    "static/js/2.9ed0469d.chunk.js.map": "/static/js/2.9ed0469d.chunk.js.map",
+    "static/js/2.57f6c020.chunk.js": "/static/js/2.57f6c020.chunk.js",
+    "static/js/2.57f6c020.chunk.js.map": "/static/js/2.57f6c020.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7ffa6b8e5e2a275ad55de91ce60a8df2.js": "/precache-manifest.7ffa6b8e5e2a275ad55de91ce60a8df2.js",
+    "precache-manifest.8ef005ce20428240c3f50a4fb29e4bfd.js": "/precache-manifest.8ef005ce20428240c3f50a4fb29e4bfd.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.06d686be.chunk.css.map": "/static/css/main.06d686be.chunk.css.map",
-    "static/js/2.9ed0469d.chunk.js.LICENSE.txt": "/static/js/2.9ed0469d.chunk.js.LICENSE.txt",
+    "static/js/2.57f6c020.chunk.js.LICENSE.txt": "/static/js/2.57f6c020.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Udemy.jpg": "/static/media/Udemy.4041fba2.jpg",
     "static/media/aia.png": "/static/media/aia.2886476c.png",
@@ -41,6 +41,7 @@
     "static/media/postman.png": "/static/media/postman.c108f557.png",
     "static/media/profile.jpg": "/static/media/profile.d9c6a3d7.jpg",
     "static/media/ridho.jpg": "/static/media/ridho.1f47680b.jpg",
+    "static/media/ridho.png": "/static/media/ridho.dd61baae.png",
     "static/media/skillenza.png": "/static/media/skillenza.7b7a76ef.png",
     "static/media/ssgandhy.png": "/static/media/ssgandhy.894ef0fc.png",
     "static/media/valora.jpg": "/static/media/valora.246ad3ed.jpg",
@@ -48,8 +49,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.00060668.js",
-    "static/js/2.9ed0469d.chunk.js",
+    "static/js/2.57f6c020.chunk.js",
     "static/css/main.06d686be.chunk.css",
-    "static/js/main.f8d6dbab.chunk.js"
+    "static/js/main.1c76c4f8.chunk.js"
   ]
 }
