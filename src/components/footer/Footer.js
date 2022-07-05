@@ -9,7 +9,7 @@ export default function Footer(props) {
     <div className="footer-div">
       <Fade>
         <p className="footer-text" style={{ color: props.theme.secondaryText }}>
-          {greeting.title2}&trade; 1993 - 2021
+          {greeting.title2}&trade; 1993 - {new Date().getFullYear()}
         </p>
         <p className="footer-text" style={{ color: props.theme.secondaryText }}>
           Template design inspired by Harikrushn

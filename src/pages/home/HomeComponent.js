@@ -5,6 +5,7 @@ import Skills from "../../containers/skills/Skills";
 import Footer from "../../components/footer/Footer";
 
 function Home(props) {
+  console.log(10, props);
   return (
     <div>
       <Header theme={props.theme} setTheme={props.setTheme} />

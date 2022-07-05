@@ -3,8 +3,8 @@
 // Website related settings
 const settings = {
   isSplash: true, // Change this to true if you want to use the splash screen.
-  useCustomCursor: true, // Change this to false if you want the good'ol cursor
-  googleTrackingID: "UA-174238252-2",
+  useCustomCursor: false, // Change this to false if you want the good'ol cursor
+  googleTrackingID: "UA-127555598-1",
 };
 
 //Home Page
@@ -15,9 +15,9 @@ const greeting = {
   nickname: "ridho / ridhoajibx",
   full_name: "Jumakri Ridho Fauzi",
   subTitle:
-    "Junior Web Developer and Front End, Open Source Enthusiast 🔥. Always learning.",
+    "Web Developer and Front End Engineer, Open Source Enthusiast 🔥. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/10J-1wq6Un7UdZ5JfzZL1tU9EeGoeo78D/view?usp=sharing",
+    "https://www.canva.com/design/DAE_Y5wI47U/7yyf_VyEWXPJF1jk4J4sGg/view?utm_content=DAE_Y5wI47U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
   mail: "mailto:ridhoajibx@gmail.com",
 };
 
@@ -41,7 +41,7 @@ const skills = {
         "🚀 Develop highly interactive Front end and User Interfaces for your website and applications",
         "🚀 Building responsive website front end using ReactJS",
         "🚀 Creating application backend in Node, Express & Laravel",
-        "🚀 Integration of third party services such as Firebase",
+        "🚀 Integration of third party services such as Firebase & Redux",
       ],
       softwareSkills: [
         {
@@ -330,7 +330,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "profile.jpg",
+    profile_image_path: "ridho.png",
     description:
       "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
   },

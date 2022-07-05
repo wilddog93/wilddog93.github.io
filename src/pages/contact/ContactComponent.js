@@ -12,7 +12,7 @@ const ContactData = contactPageData.contactSection;
 const blogSection = contactPageData.blogSection;
 
 function Contact(props) {
-  const theme = props.theme;
+  const { theme } = props;
 
   const styles = style({
     backgroundColor: `${theme.accentBright}`,

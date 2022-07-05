@@ -16,8 +16,10 @@ function Certifications(props) {
         </Fade>
       </div>
       <div className="certs-body-div">
-        {certifications.certifications.map((cert) => {
-          return <CertificationCard certificate={cert} theme={theme} />;
+        {certifications.certifications.map((cert, id) => {
+          return (
+            <CertificationCard key={id} certificate={cert} theme={theme} />
+          );
         })}
       </div>
     </div>

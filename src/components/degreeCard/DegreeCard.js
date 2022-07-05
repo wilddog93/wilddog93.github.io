@@ -4,8 +4,7 @@ import { Fade, Flip } from "react-reveal";
 import { style } from "glamor";
 
 function DegreeCard(props) {
-  const degree = props.degree;
-  const theme = props.theme;
+  const { degree, theme } = props;
 
   const style_img = style({
     width: "200px",
@@ -75,7 +74,7 @@ function DegreeCard(props) {
             style={{
               maxWidth: "100%",
               maxHeight: "100%",
-              height: "140px",
+              width: "200px",
               transform: "scale(50%, 50%)",
             }}
             src={require(`../../assests/images/${degree.logo_path}`)}
@@ -103,10 +102,14 @@ function DegreeCard(props) {
               </h3>
             </div>
           </div>
-          <div classname="body-content">
-            {degree.descriptions.map((sentence) => {
+          <div className="body-content">
+            {degree.descriptions.map((sentence, id) => {
               return (
-                <p className="content-list" style={{ color: theme.text }}>
+                <p
+                  key={id}
+                  className="content-list"
+                  style={{ color: theme.text }}
+                >
                   {sentence}
                 </p>
               );
