@@ -24,7 +24,7 @@ const greeting = {
 const socialMediaLinks = {
   /* Your Social Media Link */
   github: "https://github.com/ridhoajibx",
-  linkedin: "https://www.linkedin.com/in/ridhoajibx/",
+  linkedin: "https://www.linkedin.com/in/jumakri-ridho-fauzi/",
   gmail: "ridhoajibx@gmail.com",
   gitlab: "https://gitlab.com/ridhoajibx",
   facebook: "https://www.facebook.com/ridhoajibx/",
@@ -337,8 +337,8 @@ const contactPageData = {
   blogSection: {
     title: "Blogs",
     subtitle:
-      "I don't blog frequently but when I do something awesome, I do try to document it so it can be helpful to others. I write on Twitter.",
-    link: "https://twitter.com/ridhoajibx",
+      "I don't blog frequently but when I do something awesome, I do try to document it so it can be helpful to others. I write on Linked In.",
+    link: "https://www.linkedin.com/in/jumakri-ridho-fauzi/",
     avatar_image_path: "blogs_image.svg",
   },
 };
