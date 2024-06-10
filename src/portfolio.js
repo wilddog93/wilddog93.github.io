@@ -10,9 +10,9 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hello.",
-  title2: "ridhoajibx",
-  logo_name: "ridhoajibx",
-  nickname: "ridho / ridhoajibx",
+  title2: "ridho",
+  logo_name: "ridho",
+  nickname: "ridho / wilddog93",
   full_name: "Jumakri Ridho Fauzi",
   subTitle:
     "Web Developer and Front End Engineer, Open Source Enthusiast 🔥. Always learning.",
@@ -23,13 +23,13 @@ const greeting = {
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/ridhoajibx",
+  github: "https://github.com/wilddog93",
   linkedin: "https://www.linkedin.com/in/jumakri-ridho-fauzi/",
   gmail: "ridhoajibx@gmail.com",
   gitlab: "https://gitlab.com/ridhoajibx",
   facebook: "https://www.facebook.com/ridhoajibx/",
-  twitter: "https://twitter.com/ridhoajibx",
-  instagram: "https://www.instagram.com/ridhoajibx/",
+  // twitter: "https://twitter.com/ridhoajibx",
+  // instagram: "https://www.instagram.com/ridhoajibx/",
 };
 
 const skills = {
@@ -67,10 +67,11 @@ const skills = {
           },
         },
         {
-          skillName: "PHP",
-          fontAwesomeClassname: "simple-icons:php",
+          skillName: "TypeScript",
+          fontAwesomeClassname: "simple-icons:typescript",
           style: {
-            color: "#7377AD",
+            backgroundColor: "#FFFFFF",
+            color: "#F7DF1E",
           },
         },
         {
@@ -81,17 +82,24 @@ const skills = {
           },
         },
         {
+          skillName: "NextJS",
+          fontAwesomeClassname: "simple-icons:nextjs",
+          style: {
+            color: "#61DAFB",
+          },
+        },
+        {
+          skillName: "VueJS",
+          fontAwesomeClassname: "simple-icons:vue",
+          style: {
+            color: "#61DAFB",
+          },
+        },
+        {
           skillName: "NodeJS",
           fontAwesomeClassname: "simple-icons:node-dot-js",
           style: {
             color: "#339933",
-          },
-        },
-        {
-          skillName: "Laravel",
-          fontAwesomeClassname: "simple-icons:laravel",
-          style: {
-            color: "#CB3837",
           },
         },
         {
@@ -214,7 +222,7 @@ const degrees = {
       subtitle: "Diploma in Information Technology",
       logo_path: "logo-ibsi.png",
       alt_name: "SETI",
-      duration: "2016 - Present",
+      duration: "2016 - 2020 (Postpone)",
       descriptions: [
         "🚀 I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
         "🚀 I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
@@ -272,10 +280,21 @@ const experience = {
       experiences: [
         {
           title: "Front End Web Developer",
+          company: "PT Orijin Supremasi Ventura",
+          company_url: "https://orijinsupremasi.id/",
+          logo_path: "logo-origin.svg",
+          duration: "September 2023 - Present",
+          location: "Office",
+          description:
+            "I work as a Front End Web Developer who focuses more on the client browser which is build with NextJS - React and NuxtJS - Vue",
+          color: "#0071C5",
+        },
+        {
+          title: "Front End Web Developer",
           company: "PT Infini Oase Technology",
           company_url: "https://infinitec.id/",
           logo_path: "infinitec.jpg",
-          duration: "November 2021 - Now",
+          duration: "November 2021 - August 2023",
           location: "Office",
           description:
             "I work as a Front End Web Developer who focuses more on the client browser which is build with NextJS - React",
